@@ -5,8 +5,8 @@ Vehicle Routing Problem with Genetic Programming and Integer Linear Programming
 [Genetic Programming](https://github.com/betulbayram/VRP/blob/main/genetic_programming.py)
 
 ### Requirements
--[matplotlib](https://pypi.org/project/matplotlib/)
--[pulp](https://pypi.org/project/PuLP/)
+-[matplotlib](https://pypi.org/project/matplotlib/) 1
+-[pulp](https://pypi.org/project/PuLP/) 2
 
 ## Example Map
 ![map](https://github.com/betulbayram/VRP/blob/main/MAP.png)
